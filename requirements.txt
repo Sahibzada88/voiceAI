@@ -3,4 +3,3 @@ uvicorn
 SpeechRecognition
 groq
 python-dotenv
-pyaudio
