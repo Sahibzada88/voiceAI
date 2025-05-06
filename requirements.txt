@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-speechrecognition
+SpeechRecognition
 groq
 python-dotenv
 pyaudio
